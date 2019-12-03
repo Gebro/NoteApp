@@ -4,7 +4,7 @@
     android:orientation="vertical"
 	android:layout_width="match_parent"
     android:layout_height="wrap_content"
-    android:padding="10dp"
+    android:layout_marginBottom="5dp"
     >
     <TextView
         android:layout_width="0dp"
@@ -38,8 +38,6 @@
         android:text="2019-01-10"
         android:id="@+id/TV_date"
         />
-
-
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>

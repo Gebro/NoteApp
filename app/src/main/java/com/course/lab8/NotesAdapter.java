@@ -71,4 +71,5 @@ public class NotesAdapter extends RecyclerView.Adapter<NotesAdapter.ViewHolder> 
             TV_desc = itemView.findViewById(R.id.TV_desc);
         }
     }
+
 }
